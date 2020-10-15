@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\DemoSocketClient1841720121Rey\DemoSocketClient1841720121Rey\obj\Debug\DemoSocketClient1841720121Rey.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\DemoSocketClient1841720121Rey\DemoSocketClient1841720121Rey\obj\Debug\DemoSocketClient1841720121Rey.FrmDemoSocketClientServer.resources
+C:\Users\ASUS\source\repos\DemoSocketClient1841720121Rey\DemoSocketClient1841720121Rey\obj\Debug\DemoSocketClient1841720121Rey.Properties.Resources.resources
+C:\Users\ASUS\source\repos\DemoSocketClient1841720121Rey\DemoSocketClient1841720121Rey\obj\Debug\DemoSocketClient1841720121Rey.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\DemoSocketClient1841720121Rey\DemoSocketClient1841720121Rey\obj\Debug\DemoSocketClient1841720121Rey.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\DemoSocketClient1841720121Rey\DemoSocketClient1841720121Rey\bin\Debug\DemoSocketClient1841720121Rey.exe.config
+C:\Users\ASUS\source\repos\DemoSocketClient1841720121Rey\DemoSocketClient1841720121Rey\bin\Debug\DemoSocketClient1841720121Rey.exe
+C:\Users\ASUS\source\repos\DemoSocketClient1841720121Rey\DemoSocketClient1841720121Rey\bin\Debug\DemoSocketClient1841720121Rey.pdb
+C:\Users\ASUS\source\repos\DemoSocketClient1841720121Rey\DemoSocketClient1841720121Rey\obj\Debug\DemoSocketClient1841720121Rey.exe
+C:\Users\ASUS\source\repos\DemoSocketClient1841720121Rey\DemoSocketClient1841720121Rey\obj\Debug\DemoSocketClient1841720121Rey.pdb
